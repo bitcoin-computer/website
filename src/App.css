@@ -93,6 +93,7 @@
   font-size: .9vw;
   font-family: Formular;
   font-weight: bold;
+  vertical-align: middle;
 }
 
 .navigation a:visited,

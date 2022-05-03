@@ -20,7 +20,7 @@ function Profile(props: ProfileProps) {
         <Box className="profile-name">{props.name}</Box>
         <Box className="profile-text">{props.text}</Box>
       </Box>
-      <Box className="social-links-about">
+      {/* <Box className="social-links-about">
         <Link
           className="social-1"
           href="http://www.google.com"
@@ -41,7 +41,7 @@ function Profile(props: ProfileProps) {
           href="http://www.google.com"
           target="_blank"
         />
-      </Box>
+      </Box> */}
     </Box>
   );
 }

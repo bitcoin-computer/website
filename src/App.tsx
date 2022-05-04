@@ -67,8 +67,8 @@ function App() {
           <Grid item xs={4} className="contact-email-wrapper">
             <p className="contact-email-wrapper-first">Get in touch</p>
             <p className="contact-email-wrapper-second">
-              <a href="mailto:hello@bitcoincomputer.io">
-                hello@bitcoincomputer.io
+              <a href="mailto:clemens@bitcoincomputer.io">
+                clemens@bitcoincomputer.io
               </a>
             </p>
           </Grid>

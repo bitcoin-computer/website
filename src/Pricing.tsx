@@ -23,7 +23,7 @@ function Pricing() {
         <b>0.1%</b> of amount sent
       </Box>
       <Box className="pricing-option-3">
-        <b>1 cent</b> per smart object create or update
+        <b>$0.01</b> per smart object creation <br />or update
       </Box>
       <Box className="graph3" />
     </Box>

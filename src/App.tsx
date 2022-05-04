@@ -3,13 +3,13 @@ import Grid from "@mui/material/Grid";
 import Box from "@mui/material/Box";
 import { ReactComponent as Telegram } from "./social/telegram.svg";
 import { ReactComponent as YouTube } from "./social/youtube.svg";
-import { ReactComponent as Discord } from "./social/discord.svg";
+// import { ReactComponent as Discord } from "./social/discord.svg";
 import { ReactComponent as GitHub } from "./social/github.svg";
 import { ReactComponent as Twitter } from "./social/twitter.svg";
 import Features from "./Features";
 import Pricing from "./Pricing";
 import Examples from "./Examples";
-import About from "./About";
+// import About from "./About";
 import Introduction from "./Introduction";
 import { ReactComponent as ArrowLink } from "./social/arrow.svg";
 
@@ -74,28 +74,28 @@ function App() {
           </Grid>
           <Grid item xs={4} className="social-links">
             <Grid item xs={12}>
-              <a href="https://twitter.com/thebitcointoken" target="_blank">
+              <a href="https://twitter.com/thebitcointoken" rel="noreferrer" target="_blank">
                 <Twitter
                   height="50px"
                   width="50px"
                   viewBox="0 0 26 26"
                 ></Twitter>
               </a>
-              <a href="https://t.me/thebitcoincomputer" target="_blank">
+              <a href="https://t.me/thebitcoincomputer" rel="noreferrer" target="_blank">
                 <Telegram
                   height="50px"
                   width="50px"
                   viewBox="0 0 26 26"
                 ></Telegram>
               </a>
-              <a href="https://www.youtube.com/c/ClemensLey" target="_blank">
+              <a href="https://www.youtube.com/c/ClemensLey" rel="noreferrer" target="_blank">
                 <YouTube
                   height="50px"
                   width="50px"
                   viewBox="0 0 26 26"
                 ></YouTube>
               </a>
-              <a href="https://github.com/bitcoin-computer" target="_blank">
+              <a href="https://github.com/bitcoin-computer" rel="noreferrer" target="_blank">
                 <GitHub height="50px" width="50px" viewBox="0 0 26 26"></GitHub>
               </a>
             </Grid>

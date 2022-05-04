@@ -74,35 +74,28 @@ function App() {
           </Grid>
           <Grid item xs={4} className="social-links">
             <Grid item xs={12}>
-              <a href="https://www.twitter.com" target="_blank">
+              <a href="https://twitter.com/thebitcointoken" target="_blank">
                 <Twitter
                   height="50px"
                   width="50px"
                   viewBox="0 0 26 26"
                 ></Twitter>
               </a>
-              <a href="https://www.twitter.com" target="_blank">
+              <a href="https://t.me/thebitcoincomputer" target="_blank">
                 <Telegram
                   height="50px"
                   width="50px"
                   viewBox="0 0 26 26"
                 ></Telegram>
               </a>
-              <a href="https://www.twitter.com" target="_blank">
+              <a href="https://www.youtube.com/c/ClemensLey" target="_blank">
                 <YouTube
                   height="50px"
                   width="50px"
                   viewBox="0 0 26 26"
                 ></YouTube>
               </a>
-              <a href="https://www.twitter.com" target="_blank">
-                <Discord
-                  height="50px"
-                  width="50px"
-                  viewBox="0 0 26 26"
-                ></Discord>
-              </a>
-              <a href="https://www.twitter.com" target="_blank">
+              <a href="https://github.com/bitcoin-computer" target="_blank">
                 <GitHub height="50px" width="50px" viewBox="0 0 26 26"></GitHub>
               </a>
             </Grid>

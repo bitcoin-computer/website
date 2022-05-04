@@ -25,13 +25,14 @@ function Introduction() {
       <Box className="features" id="features">Features</Box>
       <Box className="headingWrapper">
         <Box className="headline">
-          <p>A Turing complete smart contract</p>
-          <p>system for Bitcoin.</p>
+          <p>Turing Complete Smart Contracts</p>
+          <p>for Bitcoin.</p>
         </Box>
         <Box className="subHeading">
-          <p>Build fungible and non-fungible tokens (NFTs), games, social</p>
-          <p>networks, exchanges, auctions, voting, office applications,</p>
-          <p>artificial intelligence, ... anything really.</p>
+          <p>Bitcoin Computer is an easy to use smart contract system for Bitcoin.</p>
+          <p>You can build fungible and non-fungible tokens (NFTs), games, social</p>
+          <p>networks, exchanges, auctions, voting, office applications, artificial</p>
+          <p>intelligence ... anything really.</p>
         </Box>
       </Box>
     </Box>

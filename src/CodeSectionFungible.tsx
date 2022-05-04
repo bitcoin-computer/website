@@ -9,7 +9,7 @@ function CodeSectionFungible() {
         <pre className="code-block">
           <code> 1 </code>
           <code className="code-yellow">class</code>{" "}
-          <code className="code-dark-yellow">Coin</code>
+          <code className="code-dark-yellow">Token</code>
           <code className="code-gray">{` {`}</code>
           <br />
           <code> 2 </code>
@@ -27,7 +27,7 @@ function CodeSectionFungible() {
           <code> 4 </code>
           <code className="code-blue">{`      this`}</code>
           <code>.</code>
-          <code className="code-dark-blue">owners</code> <code>= [</code>{" "}
+          <code className="code-dark-blue">owners</code> <code>= [</code>
           <code className="code-dark-blue">to</code>
           <code>]</code>
           <br />

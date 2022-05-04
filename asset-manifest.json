@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.902b5889.css",
-    "main.js": "/static/js/main.a4709b51.js",
+    "main.js": "/static/js/main.f311338c.js",
     "static/js/787.afeae361.chunk.js": "/static/js/787.afeae361.chunk.js",
     "static/media/Turning-Complete-Graph.png": "/static/media/Turning-Complete-Graph.c0c0654985ce890789ae.png",
     "static/media/Formular.ttf": "/static/media/Formular.1bc0c97149495c74edf2.ttf",
@@ -17,11 +17,11 @@
     "static/media/H-Grid-line.svg": "/static/media/H-Grid-line.3c58597ab5cc2280e817.svg",
     "static/media/V-Grid-line.svg": "/static/media/V-Grid-line.73a4786628365dc2d2a3.svg",
     "main.902b5889.css.map": "/static/css/main.902b5889.css.map",
-    "main.a4709b51.js.map": "/static/js/main.a4709b51.js.map",
+    "main.f311338c.js.map": "/static/js/main.f311338c.js.map",
     "787.afeae361.chunk.js.map": "/static/js/787.afeae361.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.902b5889.css",
-    "static/js/main.a4709b51.js"
+    "static/js/main.f311338c.js"
   ]
 }

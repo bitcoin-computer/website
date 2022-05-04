@@ -28,21 +28,20 @@ function Features() {
         <Grid item xs={4} className="feature featuresGridItem">
           <Feature
             heading="Free computation"
-            text="On other blockchains almost all algorithms are prohibitively expensive. On Bitcoin all algorithms have the same cost: the cost of a payment. 
+            text="On other blockchains almost all algorithms are prohibitively expensive. On Bitcoin all algorithms have the same cost: the cost of a payment.
           This makes it possible, for the first time, to run compute intense algorithms as smart contracts."
           />
         </Grid>
         <Grid item xs={4} className="feature featuresGridItem">
           <Feature
             heading="Pure Bitcoin"
-            text="The Bitcoin Computer does not depend on a side-chain and will soon depend only on Bitcoin. 
-          This means that smart contracts will continue to work as long as Bitcoin is available."
+            text="The Bitcoin Computer does not depend on a side-chain and depends only on Bitcoin. This means that smart contracts will continue to work as long as Bitcoin is available."
           />
         </Grid>
         <Grid item xs={4} className="feature featuresGridItem">
           <Feature
             heading="Off-Chain storage"
-            text="Which data needs to be stored on-chain vs securely hashed and off-chain is application dependent. 
+            text="Which data needs to be stored on-chain vs securely hashed and off-chain is application dependent.
           We make it easy for the programmer to store data off-chain."
           />
         </Grid>
@@ -61,7 +60,7 @@ function Features() {
         <Grid item xs={4} className="feature featuresGridItem">
           <Feature
             heading="Trustless"
-            text="You can run your own Bitcoin Computer Node to gain trustless access to the blockchain. 
+            text="You can run your own Bitcoin Computer Node to gain trustless access to the blockchain.
           You can deploy a node locally with one line of code thanks to Docker and we have instructions for how to deploy to AWS Fargate."
           />
         </Grid>

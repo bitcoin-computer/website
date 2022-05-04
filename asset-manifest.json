@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.902b5889.css",
-    "main.js": "/static/js/main.3f146822.js",
+    "main.js": "/static/js/main.4f6e68dc.js",
     "static/js/787.afeae361.chunk.js": "/static/js/787.afeae361.chunk.js",
     "static/media/Turning-Complete-Graph.png": "/static/media/Turning-Complete-Graph.c0c0654985ce890789ae.png",
     "static/media/Formular.ttf": "/static/media/Formular.1bc0c97149495c74edf2.ttf",
     "static/media/code-section.svg": "/static/media/code-section.ca8c71e26d5d40741701.svg",
     "static/media/Graph-3.svg": "/static/media/Graph-3.fb3196b4146b4e5ffd7c.svg",
-    "static/media/discord.svg": "/static/media/discord.9ad2183c831cf968f8718cd081c1e597.svg",
     "static/media/github.svg": "/static/media/github.f09024f8634e957da472b8f689dbc8ae.svg",
     "static/media/telegram.svg": "/static/media/telegram.e91713a8d010ec6da132dafe5ac99272.svg",
     "static/media/twitter.svg": "/static/media/twitter.c2bebf603b6d88e8bc33d16333150f44.svg",
@@ -18,11 +17,11 @@
     "static/media/H-Grid-line.svg": "/static/media/H-Grid-line.3c58597ab5cc2280e817.svg",
     "static/media/V-Grid-line.svg": "/static/media/V-Grid-line.73a4786628365dc2d2a3.svg",
     "main.902b5889.css.map": "/static/css/main.902b5889.css.map",
-    "main.3f146822.js.map": "/static/js/main.3f146822.js.map",
+    "main.4f6e68dc.js.map": "/static/js/main.4f6e68dc.js.map",
     "787.afeae361.chunk.js.map": "/static/js/787.afeae361.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.902b5889.css",
-    "static/js/main.3f146822.js"
+    "static/js/main.4f6e68dc.js"
   ]
 }

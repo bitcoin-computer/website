@@ -61,7 +61,7 @@ function CodeSectionFungible() {
           <br />
           <code>10 </code>
           <code className="code-blue">{`      return new `}</code>
-          <code className="code-dark-yellow">Coin</code>
+          <code className="code-dark-yellow">Token</code>
           <code>(</code>
           <code className="code-light-blue">amount, to</code>
           <code>)</code>

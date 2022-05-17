@@ -80,7 +80,7 @@
     height: 50px;
     width: 33.33%;
     z-index: 2;
-    top: 19%;
+    top: 19.7%;
     left: 2%;
     position: absolute;
     font-size: 7.3vw;
@@ -156,11 +156,11 @@
     font-size: 1.1vw;
     color: #000F38;
     letter-spacing: 0;
-    text-align: left;
-    width: 80%;
+    text-align: center;
+    width: 100%;
     z-index: 2;
     top: 88%;
-    left: 2%;
+    /* left: 2%; */
     position: absolute;
 }
 
@@ -209,7 +209,7 @@
     left: 0px;
     position: absolute;
   }
-  
+
   .horizontal-examples-grid-line-2 {
     background-image: url("/public/Grid/H-Grid-line.svg");
     height: 1px;
@@ -219,7 +219,7 @@
     left: 0px;
     position: absolute;
   }
-  
+
   .horizontal-examples-grid-line-3 {
     background-image: url("/public/Grid/H-Grid-line.svg");
     height: 1px;
@@ -229,7 +229,7 @@
     left: 0px;
     position: absolute;
   }
-  
+
   .horizontal-examples-grid-line-4 {
     background-image: url("/public/Grid/H-Grid-line.svg");
     height: 1px;
@@ -249,3 +249,24 @@
     left: 0px;
     position: absolute;
   }
+
+.button-gr {
+    background-color: #162993;
+    border: none;
+    color: white;
+    padding: 1% 2%;
+    width: 30%;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    clip-path:
+    polygon(0% 10%, /* top left */
+        1% 0%, /* top left */
+        99% 0%, /* top right */
+        100% 10%, /* top right */
+        100% 90%, /* bottom right */
+        99% 100%, /* bottom right */
+        1% 100%, /* bottom left */
+        0 90% /* bottom left */
+    );
+}

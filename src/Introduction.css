@@ -60,7 +60,7 @@
 
 .features {
   z-index: 1;
-  top: 84%;
+  top: 83%;
   left: 2%;
   position: absolute;
   font-size: 7.3vw;
@@ -70,13 +70,13 @@
 
 .headingWrapper {
   position: absolute;
-  top: 33%;
-  left: 17%;
+  top: 33.4%;
+  left: 17.3%;
   width: 80%;
   text-align: left;
   z-index: 1;
   font-family: 'Formular';
-  padding: 1%;
+  padding: 1.4%;
 }
 
 .headline {

@@ -1,4 +1,4 @@
 # Deploy
 
 * Run ``yarn deploy``
-* Goto Github > settings > pages and set "Custom domain" to "www.bitcoincomputer.io"
+* Goto [https://github.com/bitcoin-computer/website/settings/pages](https://github.com/bitcoin-computer/website/settings/pages) and set "Custom domain" to "www.bitcoincomputer.io"

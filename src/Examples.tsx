@@ -1,3 +1,4 @@
+import { Button } from "@mui/material";
 import Box from "@mui/material/Box";
 import "./Examples.css";
 import ExampleTabs from './tabs'
@@ -21,8 +22,9 @@ function Examples() {
       <Box className="examples-heading-tab">Examples</Box>
       <ExampleTabs />
       <Box className="information-text">
-        View the Bitcoin Computer Docs for More Examples and Tutorials:&nbsp;
-        <a href="https://docs.bitcoincomputer.io" rel="noreferrer" target="_blank" className="docsLinkExamples">docs.bitcoincomputer.io</a>
+        <a href="https://docs.bitcoincomputer.io" rel="noreferrer" target="_blank" className="button-gr">
+          Read the Documentation
+        </a>
       </Box>
       <Box className="line4" />
       {/* <Box className="example-heading-3">Chat</Box>

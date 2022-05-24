@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c52244e.css",
-    "main.js": "/static/js/main.f373d965.js",
+    "main.css": "/static/css/main.552fdafe.css",
+    "main.js": "/static/js/main.53f94e82.js",
     "static/js/787.afeae361.chunk.js": "/static/js/787.afeae361.chunk.js",
     "static/media/Turning-Complete-Graph.png": "/static/media/Turning-Complete-Graph.c0c0654985ce890789ae.png",
     "static/media/Formular.ttf": "/static/media/Formular.1bc0c97149495c74edf2.ttf",
@@ -16,12 +16,12 @@
     "index.html": "/index.html",
     "static/media/H-Grid-line.svg": "/static/media/H-Grid-line.3c58597ab5cc2280e817.svg",
     "static/media/V-Grid-line.svg": "/static/media/V-Grid-line.73a4786628365dc2d2a3.svg",
-    "main.2c52244e.css.map": "/static/css/main.2c52244e.css.map",
-    "main.f373d965.js.map": "/static/js/main.f373d965.js.map",
+    "main.552fdafe.css.map": "/static/css/main.552fdafe.css.map",
+    "main.53f94e82.js.map": "/static/js/main.53f94e82.js.map",
     "787.afeae361.chunk.js.map": "/static/js/787.afeae361.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c52244e.css",
-    "static/js/main.f373d965.js"
+    "static/css/main.552fdafe.css",
+    "static/js/main.53f94e82.js"
   ]
 }

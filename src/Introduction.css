@@ -64,7 +64,6 @@
   left: 2%;
   position: absolute;
   font-size: 7.3vw;
-  font-family: 'Formular';
   text-align: left;
 }
 
@@ -75,7 +74,6 @@
   width: 80%;
   text-align: left;
   z-index: 1;
-  font-family: 'Formular';
   padding: 1.4%;
 }
 

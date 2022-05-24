@@ -7,7 +7,6 @@
 }
 
 .about-heading {
-    font-family: Formular;
     font-size: 7.3vw;
     color: #FFFFFF;
     z-index: 1;
@@ -18,7 +17,6 @@
 }
 
 .text-1 {
-    font-family: Formular;
     font-size: 2vw;
     color: #FFFFFF;
     letter-spacing: 0;
@@ -30,7 +28,6 @@
 }
 
 .text-2 {
-    font-family: Formular;
     font-size: 1.4vw;
     color: #787878;
     letter-spacing: 0;
@@ -82,7 +79,7 @@
     left: 0px;
     position: absolute;
   }
-  
+
   .horizontal-about-grid-line-2 {
     background-image: url("/public/Grid/H-Grid-line.svg");
     height: 1px;
@@ -92,7 +89,7 @@
     left: 0px;
     position: absolute;
   }
-  
+
   .horizontal-about-grid-line-3 {
     background-image: url("/public/Grid/H-Grid-line.svg");
     height: 1px;
@@ -102,7 +99,7 @@
     left: 0px;
     position: absolute;
   }
-  
+
   .horizontal-about-grid-line-4 {
     background-image: url("/public/Grid/H-Grid-line.svg");
     height: 1px;

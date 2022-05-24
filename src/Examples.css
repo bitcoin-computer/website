@@ -19,48 +19,7 @@
     font-size: 24px;
 }
 
-/* .examples-heading {
-    height: 50px;
-    width: 33.33%;
-    z-index: 2;
-    top: 300px;
-    left: 36px;
-    position: absolute;
-    font-size: 150px;
-    font-family: 'Formular';
-    color: #000f38;
-    text-align: left;
-}
-
-.example-1-heading {
-    height: 31px;
-    width: 247px;
-    z-index: 2;
-    top: 577.8px;
-    left: 36px;
-    position: absolute;
-    font-size: 24px;
-    font-family: 'Formular';
-    color: #000f38;
-    text-align: left;
-}
-
-.example-1-text {
-    font-family: Formular;
-    font-size: 24px;
-    color: #000F38;
-    letter-spacing: 0;
-    line-height: 31px;
-    height: 62px;
-    width: 435px;
-    z-index: 2;
-    top: 795px;
-    left: 37.25px;
-    position: absolute;
-} */
-
 .example-1-text-tab {
-    font-family: Formular;
     font-size: 1.1vw;
     color: #000F38;
     width: 80%;
@@ -69,7 +28,6 @@
 }
 
 .example-1-subtext-tab {
-    font-family: 'Formular';
     font-size: 1.1vw;
     color: #787878;
     width: 80%;
@@ -84,7 +42,6 @@
     left: 2%;
     position: absolute;
     font-size: 7.3vw;
-    font-family: 'Formular';
     color: #000f38;
     text-align: left;
 }
@@ -101,7 +58,6 @@
 }
 
 .example-1-subtext {
-    font-family: Formular;
     font-size: 24px;
     color: #787878;
     letter-spacing: 0;
@@ -122,7 +78,6 @@
     left: 663.5px;
     position: absolute;
     font-size: 24px;
-    font-family: 'Formular';
     color: #787878;
     text-align: left;
 }
@@ -135,7 +90,6 @@
     left: 1291px;
     position: absolute;
     font-size: 24px;
-    font-family: 'Formular';
     color: #787878;
     text-align: left;
 }
@@ -146,13 +100,11 @@
     left: 17.5px;
     position: absolute;
     font-size: 150px;
-    font-family: 'Formular';
     color: #000f38;
     text-align: left;
 }
 
 .information-text {
-    font-family: Formular;
     font-size: 1.1vw;
     color: #000F38;
     letter-spacing: 0;

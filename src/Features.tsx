@@ -35,20 +35,19 @@ function Features() {
         <Grid item xs={4} className="feature featuresGridItem">
           <Feature
             heading="Pure Bitcoin"
-            text="The Bitcoin Computer does not depend on a side-chain and depends only on Bitcoin. This means that smart contracts will continue to work as long as Bitcoin is available."
+            text="Smart contracts on Bitcoin are as decentralized as Bitcoin itself. The Bitcoin Computer does not depend on a side-chain, this means that smart contracts will continue to work as long as Bitcoin is available."
           />
         </Grid>
         <Grid item xs={4} className="feature featuresGridItem">
           <Feature
             heading="Off-Chain storage"
-            text="Which data needs to be stored on-chain vs securely hashed and off-chain is application dependent.
-          We make it easy for the programmer to store data off-chain."
+            text="Which data needs to be stored on-chain vs securely hashed and off-chain is application dependent. We make it easy for the programmer to store data off-chain."
           />
         </Grid>
         <Grid item xs={4} className="feature featuresGridItem">
           <Feature
             heading="Encryption"
-            text="Built to balance privacy with compliance: all smart contract data can be encrypted but flows of money are un-encrypted to enable AML."
+            text="Built to balance privacy with compliance: all smart contract data can be encrypted but flows of money are un-encrypted to enable anti-money laundering efforts."
           />
         </Grid>
         <Grid item xs={4} className="feature featuresGridItem">
@@ -60,8 +59,7 @@ function Features() {
         <Grid item xs={4} className="feature featuresGridItem">
           <Feature
             heading="Trustless"
-            text="You can run your own Bitcoin Computer Node to gain trustless access to the blockchain.
-          You can deploy a node locally with one line of code thanks to Docker and we have instructions for how to deploy to AWS Fargate."
+            text="You can run your own Bitcoin Computer Node to gain trustless access to the blockchain. You can deploy a node locally with one line of code."
           />
         </Grid>
       </Grid>

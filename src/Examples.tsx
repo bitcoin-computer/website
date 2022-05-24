@@ -22,7 +22,7 @@ function Examples() {
       <ExampleTabs />
       <Box className="information-text">
         <a href="https://docs.bitcoincomputer.io" rel="noreferrer" target="_blank" className="button-gr">
-          Read the Documentation
+          <b>Read the Documentation</b>
         </a>
       </Box>
       <Box className="line4" />

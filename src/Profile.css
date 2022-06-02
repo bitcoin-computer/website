@@ -1,5 +1,4 @@
 .profile-container {
-    width: 70%;
     z-index: 1;
     position: absolute;
     text-align: left;
@@ -15,10 +14,13 @@
     width: 100%;
     color: white;
     font-size: 1.8vw;
-    color: #FFFFFF;
     letter-spacing: 0;
     text-align: left;
-    margin-top: 7%;
+}
+
+.profile-name a {
+    color: white;
+    text-decoration: none;
 }
 
 .profile-text {

@@ -9,7 +9,7 @@ import { ReactComponent as Twitter } from "./social/twitter.svg";
 import Features from "./Features";
 import Pricing from "./Pricing";
 import Examples from "./Examples";
-// import About from "./About";
+import About from "./About";
 import Introduction from "./Introduction";
 import { ReactComponent as ArrowLink } from "./social/arrow.svg";
 
@@ -48,7 +48,7 @@ function App() {
       <Features />
       <Pricing />
       <Examples />
-      {/* <About /> */}
+      <About />
       {/* <Footer /> */}
       <Box className="contact-container">
         <Box className="vertical-grid-line-1 grid-opacity" />

@@ -20,12 +20,7 @@ function Examples() {
       <Box className="vertical-grid-line-7" sx={{ zIndex: "4" }} />
       <Box className="examples-heading-tab">Examples</Box>
       <ExampleTabs />
-      <Box className="information-text">
-        <a href="https://docs.bitcoincomputer.io" rel="noreferrer" target="_blank" className="button-gr">
-          <b>Read the Documentation</b>
-        </a>
-      </Box>
-      <Box className="line4" />
+      {/* <Box className="line4" /> */}
       {/* <Box className="example-heading-3">Chat</Box>
       <Box className="example-heading-2">Fungible Token</Box>
       <Box className="example-1-subtext">

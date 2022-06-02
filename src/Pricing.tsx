@@ -17,13 +17,13 @@ function Pricing() {
       <Box className="vertical-grid-line-7 grid-opacity" />
       <Box className="pricing-heading">Pricing</Box>
       <Box className="pricing-option-1">
-        <b>Free</b> forever on Testnet
+        Free forever<br />on testnet
       </Box>
       <Box className="pricing-option-2">
-        <b>0.1%</b> of amount sent
+        Low fixed fee<br />on mainnet
       </Box>
       <Box className="pricing-option-3">
-        <b>$0.01</b> per smart object creation <br />or update
+
       </Box>
       <Box className="graph3" />
     </Box>

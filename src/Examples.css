@@ -148,7 +148,7 @@
 }
 
 .example-grid-wrapper {
-    margin-top: calc(9.7% + 1px);
+    margin-top: 9.55%;
     border-bottom: #dfdfdf 1px solid;
 }
 
@@ -202,8 +202,8 @@
     position: absolute;
   }
 
-.button-gr {
-    background-color: #162993;
+.button-lb {
+    background-color: #0046ff;
     border: none;
     color: white;
     padding: 1% 2%;

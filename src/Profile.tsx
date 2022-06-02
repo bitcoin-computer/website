@@ -5,19 +5,25 @@ import "./Profile.css";
 export interface ProfileProps {
   name: string;
   text: string;
+  link?: string;
   imgPath?: string;
 }
 
 function Profile(props: ProfileProps) {
+  const Name = () => <Box className="profile-name">{props.name}</Box>
+  const NameWithLink = props.link
+    ? () => <Box className="profile-name"><a href={props.link}>{props.name}</a></Box>
+    : Name
+
   return (
     <Box sx={{ height: "100%" }}>
       <Box className="profile-container">
-        <img
+        {/* <img
           className="profile-picture"
           src="/portrait.png"
           alt="profile"
-        />
-        <Box className="profile-name">{props.name}</Box>
+        /> */}
+        <NameWithLink></NameWithLink>
         <Box className="profile-text">{props.text}</Box>
       </Box>
       {/* <Box className="social-links-about">

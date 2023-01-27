@@ -10,6 +10,8 @@ function CodeSection() {
           <code> 1 </code>
           <code className="code-yellow">class</code>{" "}
           <code className="code-dark-yellow">NFT</code>
+          <code className="code-yellow"> extends </code>{" "}
+          <code className="code-dark-yellow">Contract</code>
           <code className="code-gray">{` {`}</code>
           <br />
           <code> 2 </code>
@@ -19,34 +21,37 @@ function CodeSection() {
           <code>)</code> <code>{`{`}</code>
           <br />
           <code> 3 </code>
+          <code className="code-blue">{`        super()`}</code>
+          <br />
+          <code> 4 </code>
           <code className="code-blue">{`        this`}</code>
           <code>.</code>
           <code className="code-dark-blue">url</code> <code>=</code>{" "}
           <code className="code-dark-blue">url</code>
           <br />
-          <code> 4 </code>
+          <code> 5 </code>
           <code className="code-blue">{`        this`}</code>
           <code>.</code>
           <code className="code-dark-blue">title</code> <code>=</code>{" "}
           <code className="code-dark-blue">title</code>
           <br />
-          <code> 5 </code>
+          <code> 6 </code>
           <code className="code-blue">{`        this`}</code>
           <code>.</code>
           <code className="code-dark-blue">artist</code> <code>=</code>{" "}
           <code className="code-dark-blue">artist</code>
           <br />
-          <code>11 </code>
+          <code> 7 </code>
           <code className="code-blue">{`        this`}</code>
           <code>.</code>
           <code className="code-dark-blue">_owners</code> <code>= [</code>
           <code className="code-dark-blue">to</code>
           <code>]</code>
           <br />
-          <code> 4 </code>
+          <code> 8 </code>
           <code>{`    }`}</code>
           <br />
-          <code> 5 </code>
+          <code> 9 </code>
           <br />
           <code>10 </code>
           <code className="code-dark-blue">{`    send`}</code>
